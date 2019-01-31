@@ -1,0 +1,51 @@
+
+
+/*MORNING CW PROBLEM2 CSS*/
+
+
+
+.container{
+
+    border: 1px solid black;
+    margin: 1.5% 30%;
+
+}
+
+header{
+    margin: 0;
+}
+section {
+    border: 1px solid red;
+    display:inline-block;
+    text-align: center;
+    width: 47%;
+    height: 50px;
+    padding-top: 10%;
+    margin-inside: 10px;
+
+
+
+}
+
+
+article{
+
+    text-align: center;
+    border: 1px solid grey;
+}
+
+input{
+
+    width: 99%;
+}
+
+footer1{
+
+    display: inline-block;
+    width: 47%;
+}
+
+footer2{
+    display: inline-block;
+    width: 47%;
+}

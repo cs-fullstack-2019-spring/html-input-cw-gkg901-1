@@ -1,0 +1,57 @@
+
+/*MORNING CW PROBLEM1 CSS*/
+
+.container{
+    border: 1px solid black;
+    margin:1.5% 40%
+
+
+}
+
+
+body{
+    /*margin-top: 5%;*/
+    /*margin-bottom: 5%;*/
+    /*margin-left: 30%;*/
+    /*margin-right: 30%;*/
+    padding: 12px;
+    background-color: plum;
+
+}
+
+header{
+
+    text-align: left;
+}
+
+p{
+
+    font-size: small;
+    display: block;
+
+}
+
+section{
+
+    width: 100%;
+}
+
+article{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+button{
+
+    width: 100%;
+}
+
+input{
+    width: 100%;
+}
+
+footer{
+    margin-top: 24px;
+    text-align: center;
+}
